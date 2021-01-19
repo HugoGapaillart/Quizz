@@ -1,0 +1,21 @@
+body{
+    background: url();
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.txt{
+    text-align: center;
+    color: red;
+    font-family: serif;
+}
+
+.bouton{
+    margin-left: 13%;
+    font-size: 30px;
+    border-radius: 10px;
+    color: violet;
+    cursor: pointer;
+    outline: none;
+}
