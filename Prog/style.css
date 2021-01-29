@@ -12,10 +12,24 @@ body{
 }
 
 .bouton{
+    background-color: black;
+    color:white;
     margin-left: 13%;
+    margin-top: 10%;
     font-size: 30px;
     border-radius: 10px;
-    color: violet;
     cursor: pointer;
     outline: none;
+    width: 15%;
+    height: 10%;
+    margin-left: 13%;
+    margin-top: 20%;
+}
+.bouton:hover{
+    background-color: blue;
+}
+.quest{
+    text-align: center;
+    margin-top: 10%;
+    color: green;
 }

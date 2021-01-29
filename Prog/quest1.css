@@ -1,0 +1,69 @@
+.bouton1{
+    background-color: black;
+    color:white;
+    margin-left: 13%;
+    margin-top: 10%;
+    font-size: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    width: 600px;
+    height: 200px;
+    margin-left: 10%;
+}
+.bouton2{
+    background-color: black;
+    color:white;
+    margin-left: 13%;
+    margin-top: 10%;
+    font-size: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    width: 600px;
+    height: 200px;
+    margin-left: 10%;
+}
+.bouton3{
+    background-color: black;
+    color:white;
+    margin-left: 13%;
+    margin-top: 10%;
+    font-size: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    width: 600px;
+    height: 200px;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.bouton4{
+    background-color: black;
+    color:white;
+    margin-left: 13%;
+    margin-top: 10%;
+    font-size: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    width: 600px;
+    height: 200px;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.bouton1:hover {
+background-color: rgb(32, 30, 30);
+}
+.bouton2:hover {
+    background-color: rgb(32, 30, 30);
+}
+.bouton3:hover {
+    background-color: rgb(32, 30, 30);
+}
+.bouton4:hover {
+    background-color: rgb(32, 30, 30);
+}
+.bouton{
+    margin-top: 15%;
+}
