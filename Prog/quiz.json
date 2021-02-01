@@ -1,10 +1,10 @@
 {"quiz": {
     "question1": {
-        "question": "De quel couleur est la voiture",
-        "reponse1": "a",
-        "reponse2": "b",
-        "reponse3": "c",
-        "reponse4": "d",
+        "question": "De quel couleur est la voiture de oui oui",
+        "reponse1": "rouge",
+        "reponse2": "bleu",
+        "reponse3": "vert",
+        "reponse4": "jaune",
         "width": 500,
         "height": 500,
         "alignment": "center"
