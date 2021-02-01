@@ -1,19 +1,19 @@
-body{
+body {
     background: url();
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 
-.txt{
+.txt {
     text-align: center;
     color: red;
     font-family: serif;
 }
 
-.bouton{
+.bouton {
     background-color: black;
-    color:white;
+    color: white;
     margin-left: 13%;
     margin-top: 10%;
     font-size: 30px;
@@ -25,10 +25,12 @@ body{
     margin-left: 13%;
     margin-top: 20%;
 }
-.bouton:hover{
+
+.bouton:hover {
     background-color: blue;
 }
-.quest{
+
+.quest {
     text-align: center;
     margin-top: 10%;
     color: green;

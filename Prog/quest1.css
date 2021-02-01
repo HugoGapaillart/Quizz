@@ -1,69 +1,94 @@
-.bouton1{
-    background-color: black;
-    color:white;
-    margin-left: 13%;
-    margin-top: 10%;
-    font-size: 30px;
-    border-radius: 10px;
+body {
+    font-family: 'Montserrat';
+}
+
+#question {
+    text-align: center;
+}
+
+h2 {
+    padding-top: 25px;
+}
+
+.bouton {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bouton div {
+    margin: 5px;
+    width: 45%;
+    height: 150px;
+}
+
+.bouton1 {
+    background-color: #FD2303;
+    color: white;
+    border: none;
+    font-size: 20px;
     cursor: pointer;
     outline: none;
-    width: 600px;
-    height: 200px;
-    margin-left: 10%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
 }
-.bouton2{
-    background-color: black;
-    color:white;
-    margin-left: 13%;
-    margin-top: 10%;
-    font-size: 30px;
-    border-radius: 10px;
+
+.bouton2 {
+    background-color: #FB189C;
+    color: white;
+    border: none;
+    font-size: 20px;
     cursor: pointer;
     outline: none;
-    width: 600px;
-    height: 200px;
-    margin-left: 10%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
 }
-.bouton3{
-    background-color: black;
-    color:white;
-    margin-left: 13%;
-    margin-top: 10%;
-    font-size: 30px;
-    border-radius: 10px;
+
+.bouton3 {
+    background-color: #33AC31;
+    color: white;
+    border: none;
+    font-size: 20px;
     cursor: pointer;
     outline: none;
-    width: 600px;
-    height: 200px;
-    margin-left: 10%;
-    margin-top: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    padding-top:
 }
-.bouton4{
-    background-color: black;
-    color:white;
-    margin-left: 13%;
-    margin-top: 10%;
-    font-size: 30px;
-    border-radius: 10px;
+
+.bouton4 {
+    background-color: #CC1CEA;
+    color: white;
+    border: none;
+    font-size: 20px;
     cursor: pointer;
     outline: none;
-    width: 600px;
-    height: 200px;
-    margin-left: 10%;
-    margin-top: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
 }
+
 .bouton1:hover {
-background-color: rgb(32, 30, 30);
+    background-color: #fd24038e;
 }
+
 .bouton2:hover {
-    background-color: rgb(32, 30, 30);
+    background-color: #fb189c8e;
 }
+
 .bouton3:hover {
-    background-color: rgb(32, 30, 30);
+    background-color: #33ac318a;
 }
+
 .bouton4:hover {
-    background-color: rgb(32, 30, 30);
+    background-color: #cb1cea77;
 }
-.bouton{
+
+.bouton {
     margin-top: 15%;
+}
+
+#logo {
+    width: 105x;
+    height: 100px;
+    margin: 10px;
 }
