@@ -1,23 +1,13 @@
 {"quiz": {
-    "question1": {
+    "quest1": [{
         "question": "De quel couleur est la voiture de oui oui",
-        "reponse1": "rouge",
-        "reponse2": "bleu",
-        "reponse3": "vert",
-        "reponse4": "jaune",
-        "width": 500,
-        "height": 500,
-        "alignment": "center"
-    },
-    "question2": { 
-        "question": "...",
-        "reponse1": "a",
-        "reponse2": "b",
-        "reponse3": "c",
-        "reponse4": "d",
-        "width": 500,
-        "height": 500,
-        "alignment": "center"
-    }
+        "reponseAffichees": ["violet et noir ", "bleu et rose", "vert et blanc", "jaune et rouge" ],
+        "reponse": "jaune et rouge" 
+    }],
+    "quest2":[{
+        "question": "Quel supehero mes couilles ?",
+        "reponseAffichees": ["violet et noir ", "bleu et rose", "vert et blanc", "jaune et rouge" ],
+        "reponse": "un super héro" 
+    }]
 }
-}    
+}   

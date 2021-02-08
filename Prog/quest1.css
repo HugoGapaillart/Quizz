@@ -7,8 +7,10 @@ body {
 }
 
 h2 {
-    padding-top: 25px;
-    margin-left: 350px;
+    padding-top: 35px;
+    margin-left: 180px;
+    width: 100%;    
+
 }
 
 .bouton {
